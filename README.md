@@ -1,32 +1,44 @@
-# 🙏 नमस्ते! I'm Gaurav Kumar 👋
+<h1 align="center">🙏 नमस्ते! I'm Gaurav Kumar 👋</h1>
 
-## 💼 Full Stack Developer | MERN Stack Enthusiast | E-commerce Innovator
-
-I'm a B.Tech 4th-year Computer Science student with a passion for building modern, fast, and scalable web applications. Currently leading multiple e-commerce projects, including a Laddu Gopal product store and a Blinkit-style grocery delivery app.
+<p align="center">
+  <strong>💼 Full Stack Developer | MERN Stack Enthusiast | E-commerce Innovator</strong><br>
+  <em>B.Tech 4th-year CSE Student | Passionate about building real-world projects</em>
+</p>
 
 ---
 
 ## 🚀 Current Projects
-- 🛍️ **Laddu Gopal E-commerce Website** – Fully custom-built MERN stack site (Frontend, Backend, Cart, Checkout, Shiprocket Integration)
-- 🛒 **Blinkit Clone** – A fast grocery delivery app built in 7 days using Agile methodology
+
+🔸 **Laddu Gopal E-commerce Website**  
+<sub>🛍️ Fully custom-built MERN stack application with Cart, Checkout, and Shiprocket Integration</sub>
+
+🔸 **Blinkit Clone**  
+<sub>🛒 Rapid grocery delivery app built in 7 days using Agile methodology</sub>
+
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: React.js, Vite, Tailwind CSS, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Tools**: Git, GitHub, VS Code, Postman
-- **Design**: Figma, Canva, Vistacreate
+
+| Frontend        | Backend         | Database | Tools & Others           | Design Tools         |
+|-----------------|------------------|----------|---------------------------|----------------------|
+| React.js        | Node.js          | MongoDB  | Git, GitHub, VS Code      | Figma, Canva, Vistacreate |
+| Tailwind CSS    | Express.js       | –        | Postman, Netlify, Render  | –                    |
+| HTML, CSS, JS   | –                | –        | –                         | –                    |
 
 ---
 
 ## 🌱 Currently Learning
+
 - 🔐 JWT Authentication & Role-Based Access Control  
 - 📈 SEO Optimization for E-commerce  
 - 🌍 Self-hosting using DigitalOcean  
-- 🖥️ Admin Panel Dashboard UI/UX (Figma)
+- 🖥️ Admin Panel Dashboard UI/UX (Figma Prototyping)
 
+-
 
 ## ⚡ Fun Fact
-I believe in building **real-world projects** over just learning theory – because *Code that solves problems is real power* 💻🚀
 
+> I believe in building **real-world projects** over just learning theory – because  
+> **_Code that solves problems is real power_** 💻🚀
+
+---
