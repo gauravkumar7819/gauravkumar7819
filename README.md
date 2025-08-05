@@ -2,7 +2,7 @@
 
 ## 💼 Full Stack Developer | MERN Stack Enthusiast | E-commerce Innovator
 
-I'm a B.Tech 3rd-year Computer Science student with a passion for building modern, fast, and scalable web applications. Currently leading multiple e-commerce projects, including a Laddu Gopal product store and a Blinkit-style grocery delivery app.
+I'm a B.Tech 4th-year Computer Science student with a passion for building modern, fast, and scalable web applications. Currently leading multiple e-commerce projects, including a Laddu Gopal product store and a Blinkit-style grocery delivery app.
 
 ---
 
